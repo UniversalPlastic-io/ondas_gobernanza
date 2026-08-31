@@ -16,7 +16,7 @@
 
 **Entregable:** componente de «E1.Modelo de Gobernanza.pdf» (PT1), actividad **A1.1 — Diseño del marco de gobernanza**
 **Órgano responsable:** Autoridad de Gobernanza del Espacio de Datos (AGED)
-**Versión:** v1.0 — aprobado por la AGED en el acta 1/2026, de 5 de junio de 2026, con la revisión jurídica del acuerdo 9 superada
+**Versión:** v1.0 — aprobado por la AGED en el acta 1/2026, de 7 de abril de 2026, con la revisión jurídica del acuerdo 9 superada
 
 > **Efectos del documento.** Su contenido es vinculante para los participantes: el **Contrato de Adhesión** obliga a *"cumplir con lo establecido en el Rulebook del ONDAs Dataspace, **el Código Ético** y la normativa aplicable"*, y el **Procedimiento de Adhesión §4.3** establece que la firma del contrato *"formaliza la aceptación expresa del Rulebook, **el Código Ético** y las obligaciones del ecosistema"*.
 
@@ -127,7 +127,7 @@ La AGED, el operador funcional y el operador tecnológico se obligan además a:
 
 > **Conflicto de interés estructural.** Universal Plastic es simultáneamente promotor, operador funcional, productor de datos, proveedor de datasets y consumidor de información dentro del ecosistema (Organigrama §5). Esta concurrencia de roles debe gestionarse expresamente mediante abstención en las decisiones de la AGED que le afecten como participante.
 >
-> **Mecanismo adoptado: abstención obligatoria** de Universal Plastic en las votaciones de la AGED que le afecten como participante, con **constancia en acta** del motivo y del sentido de la decisión adoptada sin su voto. Se lleva además un **registro de conflictos declarados**, consultable por los participantes. Adoptado por la AGED en el **acuerdo 7** del «E1.Acta 1-2026 de la AGED.pdf», de 5 de junio de 2026.
+> **Mecanismo adoptado: abstención obligatoria** de Universal Plastic en las votaciones de la AGED que le afecten como participante, con **constancia en acta** del motivo y del sentido de la decisión adoptada sin su voto. Se lleva además un **registro de conflictos declarados**, consultable por los participantes. Adoptado por la AGED en el **acuerdo 7** del «E1.Acta 1-2026 de la AGED.pdf», de 7 de abril de 2026.
 
 ---
 
@@ -173,7 +173,7 @@ sin perjuicio de las responsabilidades contractuales y legales que correspondan 
 
 Cualquier participante puede comunicar a la AGED conductas contrarias a este Código. La AGED garantiza el tratamiento confidencial de la comunicación y la **ausencia de represalias** contra quien la formule de buena fe.
 
-> **Canal: buzón dedicado bajo control de la AGED**, distinto del correo ordinario del operador funcional, en la dirección **`tech.support@universalplastic.io`**, **con admisión de comunicaciones anónimas**. Adoptado por la AGED en el **acuerdo 8** del «E1.Acta 1-2026 de la AGED.pdf», de 5 de junio de 2026.
+> **Canal: buzón dedicado bajo control de la AGED**, distinto del correo ordinario del operador funcional, en la dirección **`tech.support@universalplastic.io`**, **con admisión de comunicaciones anónimas**. Adoptado por la AGED en el **acuerdo 8** del «E1.Acta 1-2026 de la AGED.pdf», de 7 de abril de 2026.
 >
 > La **Ley 2/2023 de protección del informante** exige, cuando resulta de aplicación, un canal interno con garantía de confidencialidad y admisión de comunicaciones anónimas. El mecanismo adoptado lo satisface en cualquier caso.
 

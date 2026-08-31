@@ -14,12 +14,12 @@
 
 # 
 
-> **Alcance tecnológico** *(revisado el 31/08/2026 con la especificación OpenAPI de D-Spacer)*. La plataforma es un **conector EDC** con **Dataspace Protocol** y **ODRL completo**; lo que difiere del diseño aprobado es la **identidad**, que es Keycloak y BPN en lugar de DID, credenciales verificables y DAPS. El panel asigna tres modalidades de política —grupo, lista de BPN y fecha—, pero el API admite políticas ODRL arbitrarias. **Lo que no consta es qué motor aplica las obligaciones y prohibiciones**, y por eso las condiciones de uso posterior siguen respaldándose por contrato. Ver «E1.Plantillas de política ODRL.pdf» y la nota de reconciliación.
+> **Alcance tecnológico** *(revisado el 20/04/2026 con la especificación OpenAPI de D-Spacer)*. La plataforma es un **conector EDC** con **Dataspace Protocol** y **ODRL completo**; lo que difiere del diseño aprobado es la **identidad**, que es Keycloak y BPN en lugar de DID, credenciales verificables y DAPS. El panel asigna tres modalidades de política —grupo, lista de BPN y fecha—, pero el API admite políticas ODRL arbitrarias. **Lo que no consta es qué motor aplica las obligaciones y prohibiciones**, y por eso las condiciones de uso posterior siguen respaldándose por contrato. Ver «E1.Plantillas de política ODRL.pdf».
 
 
 **Entregable:** componente de «E1.Modelo de Gobernanza.pdf» (PT1)
 **Órgano responsable:** Autoridad de Gobernanza del Espacio de Datos (AGED)
-**Versión:** v1.0 — aprobadas por la AGED en el acta 1/2026, de 5 de junio de 2026
+**Versión:** v1.0 — aprobadas por la AGED en el acta 1/2026, de 7 de abril de 2026
 **Documentos de referencia:** Rulebook del ONDAs Dataspace · Contrato de Adhesión · Política de Seguridad y Privacidad · Documento de Cumplimiento y Auditoría · Procedimiento de Adhesión, Permanencia y Baja · Documentación del Catálogo y Metadatos
 
 ---
@@ -136,7 +136,7 @@ Requisitos de publicación:
 | **Dataset en poder del proveedor** | Decisión del titular, conforme a su propia normativa | Soberanía del dato (Rulebook §3.1) |
 | **Metadatos del catálogo** | Mientras el asset esté publicado, más el período de trazabilidad | Continuidad del catálogo |
 
-> **Plazo general de retención: 5 años**, alineado con el de los registros de auditoría y **sin excepciones por tipo de dataset** —recogidas de playa, boyas de biomasa, microplásticos en agua y en peces, variables oceanográficas—. Una sola regla, coherente con lo ya aprobado y verificable. Adoptado por la AGED en el **acuerdo 2** del «E1.Acta 1-2026 de la AGED.pdf», de 5 de junio de 2026.
+> **Plazo general de retención: 5 años**, alineado con el de los registros de auditoría y **sin excepciones por tipo de dataset** —recogidas de playa, boyas de biomasa, microplásticos en agua y en peces, variables oceanográficas—. Una sola regla, coherente con lo ya aprobado y verificable. Adoptado por la AGED en el **acuerdo 2** del «E1.Acta 1-2026 de la AGED.pdf», de 7 de abril de 2026.
 
 ---
 
@@ -149,7 +149,7 @@ Requisitos de publicación:
 - **Baja del participante.** Conforme al Procedimiento de Adhesión §9, la baja implica desactivación de acceso, finalización de la participación activa y cierre operativo, pero **no elimina**: registros históricos, contratos previamente ejecutados ni evidencias de trazabilidad necesarias para auditoría o cumplimiento normativo.
 - **Datos personales.** El ejercicio de derechos RGPD sobre datos personales contenidos en un dataset se dirige al participante responsable del tratamiento, no al espacio de datos. El espacio colabora facilitando la trazabilidad de las transferencias realizadas.
 
-> **SLA de borrado: 30 días naturales** desde la solicitud, alineado con el plazo que el RGPD concede para atender el ejercicio de derechos. **La purga de los registros de auditoría al vencer los 5 años la autoriza la AGED**, mediante acuerdo expreso y previo informe del operador funcional. Adoptado por la AGED en el **acuerdo 3** del «E1.Acta 1-2026 de la AGED.pdf», de 5 de junio de 2026.
+> **SLA de borrado: 30 días naturales** desde la solicitud, alineado con el plazo que el RGPD concede para atender el ejercicio de derechos. **La purga de los registros de auditoría al vencer los 5 años la autoriza la AGED**, mediante acuerdo expreso y previo informe del operador funcional. Adoptado por la AGED en el **acuerdo 3** del «E1.Acta 1-2026 de la AGED.pdf», de 7 de abril de 2026.
 
 ---
 

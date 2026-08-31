@@ -5,7 +5,7 @@ Digital Asset space*. Contiene las **versiones vigentes** del Rulebook, el Códi
 Ético, las políticas, los procedimientos y los modelos de política del espacio.
 
 Designado repositorio oficial por la Autoridad de Gobernanza del Espacio de Datos
-(AGED) en el **acuerdo 5** del acta 1/2026, de 5 de junio de 2026.
+(AGED) en el **acuerdo 5** del acta 1/2026, de 7 de abril de 2026.
 
 Proyecto financiado en el marco del Programa de Demostradores y Casos de Uso de
 Espacios de Datos de la Secretaría de Estado de Digitalización e Inteligencia
@@ -16,7 +16,7 @@ Artificial (SEDIA) — expediente **TSI-100121-2024-99**.
 ## Índice de normas vigentes
 
 Las diez normas del corpus. Todas en **v1.0**, aprobadas por la AGED en el acta
-1/2026, de 5 de junio de 2026.
+1/2026, de 7 de abril de 2026.
 
 | Norma | Versión | Alcance | Entregable de origen |
 |-------|---------|---------|----------------------|

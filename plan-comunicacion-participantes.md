@@ -16,7 +16,7 @@
 
 **Entregable:** componente de «E1.Modelo de Gobernanza.pdf» (PT1), actividad **A1.2 — Gestión y Supervisión del marco de Gobernanza**
 **Órgano responsable:** Autoridad de Gobernanza del Espacio de Datos (AGED)
-**Versión:** v1.0 — aprobado por la AGED en el acta 1/2026, de 5 de junio de 2026
+**Versión:** v1.0 — aprobado por la AGED en el acta 1/2026, de 7 de abril de 2026
 
 > **Alcance.** Este documento regula la comunicación **hacia los participantes adheridos** sobre el funcionamiento y las reglas del espacio de datos. No es el plan de comunicación externa ni de captación, que corresponde al entregable E3.1.
 
@@ -68,7 +68,7 @@ Derivados del Rulebook §3:
 
 **Cambios sustanciales.** Requieren además que la AGED publique la versión anterior y la nueva, de forma que el participante pueda identificar qué ha cambiado. Si un cambio sustancial altera las obligaciones del Contrato de Adhesión, puede requerir **re-adhesión** o addenda firmada.
 
-> **Plazos de preaviso: 30 días** para cambios sustanciales, **15** para menores y **7** para operativos. El participante que **rechace un cambio sustancial puede causar baja sin penalización** dentro del plazo de preaviso, porque un cambio sustancial altera las condiciones bajo las que se adhirió. Adoptado por la AGED en el **acuerdo 4** del «E1.Acta 1-2026 de la AGED.pdf», de 5 de junio de 2026.
+> **Plazos de preaviso: 30 días** para cambios sustanciales, **15** para menores y **7** para operativos. El participante que **rechace un cambio sustancial puede causar baja sin penalización** dentro del plazo de preaviso, porque un cambio sustancial altera las condiciones bajo las que se adhirió. Adoptado por la AGED en el **acuerdo 4** del «E1.Acta 1-2026 de la AGED.pdf», de 7 de abril de 2026.
 
 ---
 
@@ -83,7 +83,7 @@ Derivados del Rulebook §3:
 
 **Contacto designado.** Cada participante designa en el proceso de adhesión una persona de contacto para comunicaciones de gobernanza y se obliga a mantener ese dato actualizado. Las comunicaciones dirigidas a ese contacto se consideran válidamente efectuadas.
 
-> **Repositorio documental oficial: la forja pública del proyecto**, junto al código, donde el árbol del repositorio es el índice y las etiquetas de versión con su registro de cambios son la numeración exigida. **Canal de aviso: correo al contacto designado** en el proceso de adhesión. El sitio web del proyecto (E3.3), cuando exista, remitirá a la forja. La capacidad de la plataforma D-Spacer para emitir avisos a todos los participantes **no se da por supuesta**: el canal oficial es el correo. Adoptado por la AGED en el **acuerdo 5** del «E1.Acta 1-2026 de la AGED.pdf», de 5 de junio de 2026.
+> **Repositorio documental oficial: la forja pública del proyecto**, en `https://github.com/UniversalPlastic-io/ondas_gobernanza`, donde el árbol del repositorio es el índice y las etiquetas de versión con su registro de cambios son la numeración exigida. **Canal de aviso: correo al contacto designado** en el proceso de adhesión. El sitio web del proyecto (E3.3), cuando exista, remitirá a la forja. La capacidad de la plataforma D-Spacer para emitir avisos a todos los participantes **no se da por supuesta**: el canal oficial es el correo. Adoptado por la AGED en el **acuerdo 5** del «E1.Acta 1-2026 de la AGED.pdf», de 7 de abril de 2026.
 
 ---
 
@@ -105,7 +105,7 @@ Derivados del Rulebook §3:
 | **Operador tecnológico (SQS)** | Comunicar ventanas de mantenimiento, cambios de versión de la plataforma e incidencias técnicas al operador funcional para su difusión. |
 | **Participante** | Mantener actualizado su contacto designado. Acusar recibo de comunicaciones sustanciales. Comunicar a la AGED cualquier incumplimiento del que tenga conocimiento en **5 días hábiles** (Contrato de Adhesión). |
 
-> **Responsable de la ejecución: el rol «Responsable de Gobernanza del Espacio de Datos»**, ocupado por **Adrià González Copado** (Universal Plastic). El nombre de la persona se comunica a los participantes y puede actualizarse sin modificar este plan. Adoptado por la AGED en el **acuerdo 6** del «E1.Acta 1-2026 de la AGED.pdf», de 5 de junio de 2026.
+> **Responsable de la ejecución: el rol «Responsable de Gobernanza del Espacio de Datos»**, ocupado por **Adrià González Copado** (Universal Plastic). El nombre de la persona se comunica a los participantes y puede actualizarse sin modificar este plan. Adoptado por la AGED en el **acuerdo 6** del «E1.Acta 1-2026 de la AGED.pdf», de 7 de abril de 2026.
 
 ---
 

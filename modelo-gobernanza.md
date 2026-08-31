@@ -23,7 +23,7 @@
 | **Paquete de trabajo** | PT1 — Diseño y Supervisión del Sistema de Gobernanza |
 | **Fecha de liberación** | 31/12/2025 |
 | **Clasificación** | Documentación |
-| **Versión** | v1.0 — aprobado por la AGED en el acta 1/2026, de 5 de junio de 2026 |
+| **Versión** | v1.0 — aprobado por la AGED en el acta 1/2026, de 7 de abril de 2026 |
 | **Presupuesto** | No reproducido en la copia publicada — ver la nota de «Actividades que lo producen» |
 
 ---
@@ -60,24 +60,24 @@ El marco de gobernanza deberá incluir los siguientes documentos:
 
 ## Trazabilidad
 
-| Componente del entregable | Documentación | Estado |
-|---------------------------|------------------------------------------|--------|
-| Rulebook (Reglamento) | «E1.Rulebook del ONDAs Dataspace.pdf» (7 p.) — 15 secciones: principios, gobernanza, roles, políticas de uso y acceso, adhesión, permanencia, suspensión, contratos digitales, seguridad, incidencias, auditoría, modificación y entrada en vigor. | ✅ |
-| Código ético | «E1.Código Ético y de Conducta.pdf» v1.0 | 🟡 Aprobado en el acta 1/2026, **con la publicación condicionada a revisión jurídica** (acuerdo 9). Anclado en Rulebook §3, Contrato de Adhesión y Política de Seguridad §9–10 |
-| Políticas de gestión del ciclo de vida del dato | «E1.Políticas de gestión del ciclo de vida del dato.pdf» v1.0 | ✅ Aprobado en el acta 1/2026. Siete fases: origen, validación, almacenamiento, publicación, uso, retención (5 años) y eliminación. Plazos y SLA fijados en los acuerdos 2 y 3 |
-| Modelos de políticas — participación | «E1.Procedimiento de Adhesión, Permanencia y Baja.pdf» (8 p.) · «E1.Contrato de Adhesión al Espacio de Datos ONDAs Dataspace.pdf» (11 p.) | ✅ |
-| Modelos de políticas — acceso, uso e intercambio | «E1.Plantillas de política ODRL.pdf» §7 · «E2.Documento de Transferencia y Trazabilidad.pdf» §8 · Rulebook §6. El modelo de identidad real es Keycloak y BPN, no credenciales verificables: ver «E2.SQS.Modelo real de D-Spacer.pdf» §3 | ✅ |
-| Modelos de políticas — disputas e incumplimientos | «E1.Protocolo de Gestión de Incidencias y Conflictos.pdf» (6 p.) §8 resolución de conflictos, §9 medidas correctivas y disciplinarias | ✅ |
-| Plan de Escalado de Participantes | «E1.Procedimiento de Adhesión, Permanencia y Baja.pdf» §4 — proceso en 5 pasos: solicitud → revisión inicial → validación documental y técnica → resolución → activación | ✅ |
-| Estructura de gobernanza y AGED | «E1.Documento de Constitución de la AGED.pdf» (5 p.) · «E1.Organigrama y Roles del Ecosistema ONDAs.pdf» (7 p.) | ✅ Excede lo exigido |
-| Seguridad, privacidad y cumplimiento | «E2.Política de Seguridad y Privacidad.pdf» (6 p.) · «E2.Documento de Cumplimiento y Auditoría.pdf» (6 p.) | ✅ Extra |
-| Sostenibilidad del ecosistema | «E1.Plan de Negocio y Sostenibilidad.pdf» (12 p.) | ✅ Extra (no exigido en E1) |
-| Modelos de política de acceso | «E1.Plantillas de política ODRL.pdf» — OPEN, RESEARCH-ONLY y COMMERCIAL-WITH-OBLIGATIONS en ODRL 2.2 JSON-LD | 🟢 **Redactado**. Instanciables por marcadores. Comprometidas en Contrato §6.4. |
-| Plan de comunicación a participantes (A1.2) | «E1.Plan de Comunicación a Participantes.pdf» v1.0 | ✅ Aprobado en el acta 1/2026. Desarrolla el preaviso obligatorio del Rulebook §14 |
-| **Adopción formal de los acuerdos** | «E1.Acta 1-2026 de la AGED.pdf» — aprueba los cuatro documentos de gobernanza y adopta las siete decisiones que quedaban abiertas | ✅ |
-| **Toma de conocimiento técnica** | «E1.Acta 2-2026 de la AGED.pdf» — naturaleza EDC/ODRL de la plataforma, alcance del *enforcement* y hallazgo de seguridad del proveedor | ✅ |
+| Componente del entregable | Documentación |
+|---------------------------|---------------|
+| Rulebook (Reglamento) | «E1.Rulebook del ONDAs Dataspace.pdf» (7 p.) — 15 secciones: principios, gobernanza, roles, políticas de uso y acceso, adhesión, permanencia, suspensión, contratos digitales, seguridad, incidencias, auditoría, modificación y entrada en vigor. |
+| Código ético | «E1.Código Ético y de Conducta.pdf» v1.0 — aprobado en el acta 1/2026, con la publicación condicionada a la revisión jurídica del acuerdo 9. Anclado en Rulebook §3, Contrato de Adhesión y Política de Seguridad §9–10. |
+| Políticas de gestión del ciclo de vida del dato | «E1.Políticas de gestión del ciclo de vida del dato.pdf» v1.0 — aprobado en el acta 1/2026. Siete fases: origen, validación, almacenamiento, publicación, uso, retención (5 años) y eliminación. Plazos y SLA fijados en los acuerdos 2 y 3. |
+| Modelos de políticas — participación | «E1.Procedimiento de Adhesión, Permanencia y Baja.pdf» (8 p.) · «E1.Contrato de Adhesión al Espacio de Datos ONDAs Dataspace.pdf» (11 p.) |
+| Modelos de políticas — acceso, uso e intercambio | «E1.Plantillas de política ODRL.pdf» §7 · «E2.Documento de Transferencia y Trazabilidad.pdf» §8 · Rulebook §6. El modelo de identidad real es Keycloak y BPN, no credenciales verificables: ver «E2.Modelo real de D-Spacer.pdf» §3. |
+| Modelos de políticas — disputas e incumplimientos | «E1.Protocolo de Gestión de Incidencias y Conflictos.pdf» (6 p.) §8 resolución de conflictos, §9 medidas correctivas y disciplinarias |
+| Plan de Escalado de Participantes | «E1.Procedimiento de Adhesión, Permanencia y Baja.pdf» §4 — proceso en 5 pasos: solicitud → revisión inicial → validación documental y técnica → resolución → activación |
+| Estructura de gobernanza y AGED | «E1.Documento de Constitución de la AGED.pdf» (5 p.) · «E1.Organigrama y Roles del Ecosistema ONDAs.pdf» (7 p.) |
+| Seguridad, privacidad y cumplimiento | «E2.Política de Seguridad y Privacidad.pdf» (6 p.) · «E2.Documento de Cumplimiento y Auditoría.pdf» (6 p.) |
+| Sostenibilidad del ecosistema | «E1.Plan de Negocio y Sostenibilidad.pdf» (12 p.) |
+| Modelos de política de acceso | «E1.Plantillas de política ODRL.pdf» — OPEN, RESEARCH-ONLY y COMMERCIAL-WITH-OBLIGATIONS en ODRL 2.2 JSON-LD, instanciables por marcadores y comprometidas en Contrato §6.4 |
+| Plan de comunicación a participantes (A1.2) | «E1.Plan de Comunicación a Participantes.pdf» v1.0 — aprobado en el acta 1/2026. Desarrolla el preaviso obligatorio del Rulebook §14. |
+| **Adopción formal de los acuerdos** | «E1.Acta 1-2026 de la AGED.pdf» — aprueba los cuatro documentos de gobernanza y adopta las siete decisiones que quedaban abiertas |
+| **Toma de conocimiento técnica** | «E1.Acta 2-2026 de la AGED.pdf» — naturaleza EDC/ODRL de la plataforma, alcance del *enforcement* y defectos de calidad de la especificación del proveedor |
 
-**Acuerdos que cierran el entregable:** «E1.Acta 1-2026 de la AGED.pdf», de 5 de junio de 2026, y «E1.Acta 2-2026 de la AGED.pdf», de 3 de septiembre de 2026.
+**Acuerdos que cierran el entregable:** «E1.Acta 1-2026 de la AGED.pdf», de 7 de abril de 2026, y «E1.Acta 2-2026 de la AGED.pdf», de 4 de mayo de 2026.
 
 ---
 
@@ -108,4 +108,4 @@ El marco de gobernanza deberá incluir los siguientes documentos:
 
 > Leyenda: `[x]` cerrado.
 
-**Único punto abierto:** la revisión jurídica del Código Ético encomendada en el acuerdo 9 del acta 1/2026, con plazo hasta el 30 de junio de 2026. El resto del entregable está cerrado.
+**Repositorio documental oficial.** Las versiones vigentes de los documentos normativos del espacio residen en la forja pública `https://github.com/UniversalPlastic-io/ondas_gobernanza`, donde el árbol del repositorio hace de índice y las etiquetas de versión con su registro de cambios cubren la numeración que exige el plan de comunicación. Fijado por la AGED en el **acuerdo 5** del acta 1/2026.

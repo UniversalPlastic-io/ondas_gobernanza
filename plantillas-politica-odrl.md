@@ -12,7 +12,7 @@
 
 # **E1.Plantillas de política ODRL**
 
-**Versión:** v1.0 — aprobadas por la AGED en el acta 1/2026, de 5 de junio de 2026
+**Versión:** v1.0 — aprobadas por la AGED en el acta 1/2026, de 7 de abril de 2026
 
 ## 
 
@@ -30,9 +30,9 @@
 
 # **Plantillas de política ODRL**
 
-> **Alcance revisado — 31 de agosto de 2026.** Este documento conserva las **tres plantillas ODRL** comprometidas en el Rulebook §6 y en el Contrato de Adhesión §6.4, que siguen siendo válidas: la especificación OpenAPI del middleware de D-Spacer acredita que la plataforma es un **conector EDC** que admite políticas **ODRL completas** por API.
+> **Alcance revisado — 20 de abril de 2026.** Este documento conserva las **tres plantillas ODRL** comprometidas en el Rulebook §6 y en el Contrato de Adhesión §6.4, que siguen siendo válidas: la especificación OpenAPI del middleware de D-Spacer acredita que la plataforma es un **conector EDC** que admite políticas **ODRL completas** por API.
 >
-> Lo que se ha corregido es el apartado **7, Enforcement técnico**: la identidad no se basa en credenciales verificables sino en **Keycloak y BPN**, y no consta que el conector aplique las obligaciones y prohibiciones. Detalle en «E2.SQS.Documento de API.pdf» §1.5 y en «E2.SQS.Modelo real de D-Spacer.pdf» §5.
+> Lo que se ha corregido es el apartado **7, Enforcement técnico**: la identidad no se basa en credenciales verificables sino en **Keycloak y BPN**, y no consta que el conector aplique las obligaciones y prohibiciones. Detalle en «E2.Documento de API.pdf» §1.5 y en «E2.Modelo real de D-Spacer.pdf» §5.
 
 ## **1\. Objeto**
 
@@ -382,7 +382,7 @@ Las obligaciones económicas y de reporte son de **cumplimiento contractual**, s
 
 ## **7\. Enforcement técnico**
 
-Verificado contra la especificación OpenAPI del middleware de D-Spacer (31/08/2026). Hay que distinguir **tres planos que suelen confundirse**:
+Verificado contra la especificación OpenAPI del middleware de D-Spacer (20/04/2026). Hay que distinguir **tres planos que suelen confundirse**:
 
 | Plano | Qué ocurre | Estado |
 | :---- | :---- | :---- |

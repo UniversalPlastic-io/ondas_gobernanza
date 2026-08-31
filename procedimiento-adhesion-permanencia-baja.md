@@ -12,7 +12,7 @@
 
 # **Procedimiento de Adhesión, Permanencia y Baja de Participantes**
 
-**Versión:** v1.0 — aprobado por la AGED en el acta 1/2026, de 5 de junio de 2026
+**Versión:** v1.0 — aprobado por la AGED en el acta 1/2026, de 7 de abril de 2026
 
 ## 
 
