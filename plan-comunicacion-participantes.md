@@ -16,7 +16,7 @@
 
 **Entregable:** componente de «E1.Modelo de Gobernanza.pdf» (PT1), actividad **A1.2 — Gestión y Supervisión del marco de Gobernanza**
 **Órgano responsable:** Autoridad de Gobernanza del Espacio de Datos (AGED)
-**Versión:** v1.0 — borrador para aprobación de la AGED
+**Versión:** v1.0 — aprobado por la AGED en el acta 1/2026, de 5 de junio de 2026
 
 > **Alcance.** Este documento regula la comunicación **hacia los participantes adheridos** sobre el funcionamiento y las reglas del espacio de datos. No es el plan de comunicación externa ni de captación, que corresponde al entregable E3.1.
 

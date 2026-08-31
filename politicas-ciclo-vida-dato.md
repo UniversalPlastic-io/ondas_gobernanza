@@ -19,7 +19,7 @@
 
 **Entregable:** componente de «E1.Modelo de Gobernanza.pdf» (PT1)
 **Órgano responsable:** Autoridad de Gobernanza del Espacio de Datos (AGED)
-**Versión:** v1.0 — borrador para aprobación de la AGED
+**Versión:** v1.0 — aprobadas por la AGED en el acta 1/2026, de 5 de junio de 2026
 **Documentos de referencia:** Rulebook del ONDAs Dataspace · Contrato de Adhesión · Política de Seguridad y Privacidad · Documento de Cumplimiento y Auditoría · Procedimiento de Adhesión, Permanencia y Baja · Documentación del Catálogo y Metadatos
 
 ---
