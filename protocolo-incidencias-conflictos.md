@@ -12,6 +12,8 @@
 
 # **Protocolo de Gestión de Incidencias y Conflictos**
 
+**Versión:** v1.0 — aprobado por la AGED en el acta 1/2026, de 5 de junio de 2026
+
 ## 
 
 ## 

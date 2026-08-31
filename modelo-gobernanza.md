@@ -23,6 +23,7 @@
 | **Paquete de trabajo** | PT1 — Diseño y Supervisión del Sistema de Gobernanza |
 | **Fecha de liberación** | 31/12/2025 |
 | **Clasificación** | Documentación |
+| **Versión** | v1.0 — aprobado por la AGED en el acta 1/2026, de 5 de junio de 2026 |
 | **Presupuesto** | No reproducido en la copia publicada — ver la nota de «Actividades que lo producen» |
 
 ---

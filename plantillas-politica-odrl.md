@@ -12,6 +12,8 @@
 
 # **E1.Plantillas de política ODRL**
 
+**Versión:** v1.0 — aprobadas por la AGED en el acta 1/2026, de 5 de junio de 2026
+
 ## 
 
 ## 
@@ -402,7 +404,7 @@ Verificado contra la especificación OpenAPI del middleware de D-Spacer (31/08/2
 
 **Consecuencia.** El respaldo contractual sigue siendo necesario, pero no porque la plataforma sea incapaz de expresar estas condiciones —sí lo es— sino porque **no está acreditado que las aplique**, y porque las obligaciones de uso posterior a la entrega son difíciles de imponer por medios técnicos en cualquier espacio de datos.
 
-> **Pendiente de confirmar con el proveedor tecnológico:** si el conector aplica `odrl:obligation` y `odrl:prohibition`, y con qué motor. Si la respuesta es afirmativa, parte del control que hoy descansa en la supervisión de la AGED **puede automatizarse**, y este catálogo debe ampliarse en consecuencia.
+> **Constancia.** No está acreditado que el conector aplique `odrl:obligation` y `odrl:prohibition`, ni con qué motor. La AGED tomó conocimiento de este hecho en el **acuerdo 1.b** del acta 2/2026 y, mientras no se confirme, estas condiciones se sostienen como **obligación contractual bajo su supervisión**; el traslado de la pregunta al proveedor tecnológico queda encomendado en el **acuerdo 2** de la misma acta. Si se acreditara la aplicación automática, parte del control que hoy descansa en la supervisión de la AGED podría automatizarse y este catálogo se ampliaría en consecuencia.
 
 ## **8\. Ampliación del catálogo**
 
