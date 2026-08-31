@@ -11,7 +11,7 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
 ---
 
-## [v1.0] — 2026-09-01
+## [v1.0] — 2026-08-31
 
 Publicación del cuerpo normativo completo en el repositorio documental oficial,
 en cumplimiento del **acuerdo 5** del acta 1/2026 de la AGED, de 7 de abril de
